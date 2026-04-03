@@ -1,0 +1,4 @@
+repository "Proyecto Rpg Moviles/Proyecto Rpg Moviles@4673701013590@cloud"
+  path "/"
+    br "/main"
+    co "/main"
